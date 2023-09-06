@@ -32,7 +32,7 @@ const Skills = () => {
                                 key={skill}
                                 className="flex flex-col items-center justify-center h-30 md:h-30 py-4 shadow-md ring-1 ring-gray-50 ring-opacity-5 rounded-xl transition duration-500 ease-in-out transform hover:-translate-y-1 bg-slate-800"
                             >
-                                <div className="mt-3 text-xl text-gray-50 font-medium sm:mt-2 break-all leading-9 tracking-wider">
+                                <div className="text-xl text-gray-50 font-medium break-all tracking-wider leading-9">
                                     {skill}
                                 </div>
                             </div>
