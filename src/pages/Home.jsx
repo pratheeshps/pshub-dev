@@ -12,7 +12,7 @@ const Home = () => {
                         <p className="text-cyan-400 text-4xl font-bold mb-4">
                             Hi there,
                         </p>
-                        <h1 className="text-6xl font-bold text-gray-50">
+                        <h1 className="text-4xl md:text-6xl font-bold text-gray-50">
                             I'm Pratheesh P S
                         </h1>
 
