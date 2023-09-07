@@ -1,5 +1,6 @@
 import Navbar from "./components/navbar/Navbar";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
 import Education from "./pages/Education";
 import Experience from "./pages/Experience";
 import Footer from "./pages/Footer";
@@ -15,6 +16,7 @@ export default function App() {
             <Skills />
             <Experience />
             <Education />
+            <Contact />
             <Footer />
         </div>
     );

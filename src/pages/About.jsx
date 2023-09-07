@@ -10,14 +10,16 @@ export default function About() {
                 </div>
 
                 <figure className="mt-10  rounded-xl p-8 md:p-0">
-                    <div className="md:p-8  md:pb-12 text-center md:text-left space-y-4">
+                    <div className="md:p-8  md:pb-12 text-left md:text-left space-y-4">
                         <blockquote>
                             <div className="flex flex-col md:flex-row  items-start md:items-end">
                                 <p className="ml-0 mt-5 mb-10 md:mt-0 text-xl leading-9 tracking-wide">
                                     Hi, I'm Pratheesh PS, Lead Software Engineer
-                                    at UST and hometown in Thiruvananthapuram,
-                                    Kerala, India. I love to learn and develop
-                                    applications.
+                                    at UST and hometown is Thiruvananthapuram,
+                                    Kerala, India. I am very interested in
+                                    learning new technologies, passionate about
+                                    improving my coding skills and love to
+                                    develop applications.
                                 </p>
                             </div>
                             <img
