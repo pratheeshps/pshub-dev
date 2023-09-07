@@ -77,7 +77,7 @@ const Navbar = () => {
                 className={
                     !navBtn
                         ? "hidden"
-                        : "absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center"
+                        : "absolute top-0 left-0 w-full h-screen bg-slate-900 flex flex-col justify-center items-center"
                 }
             >
                 {NAV_BAR_LIST.map(({ name, title }) => (
