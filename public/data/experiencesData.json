@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "position": "Lead Software Engineer",
+        "company": "UST, India",
+        "startDate": "January 2023",
+        "endDate": null,
+        "current": true,
+        "description": "Working in a Banking product by Modernizing the the frontend appication of the product.",
+        "link": "https://www.ust.com"
+    },
+    {
+        "id": "2",
+        "position": "Senior Software Engineer, Frontend",
+        "company": "AppViewX, India",
+        "startDate": "December 2014",
+        "endDate": "January 2023",
+        "current": false,
+        "description": "Working in a multi-disciplined team by developing and maintaining the frontend functionality of the product.",
+        "link": "https://www.appviewx.com"
+    },
+    {
+        "id": "3",
+        "position": "Web Developer",
+        "company": "Amrita Center for Cybersecurity Systems and Networks, India",
+        "startDate": "July 2013",
+        "endDate": "November 2014",
+        "current": false,
+        "description": "Created and managed Secure scalable and interoperable Internet of Things, AD2 Visual Reporting Tool and Amrita Big Data Framework",
+        "link": "https://www.amrita.edu/center/cyber-security"
+    }
+]
