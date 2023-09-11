@@ -1,22 +1,15 @@
-const skills = [
-    "HTML",
-    "CSS",
-    "Javascript",
-    "ReactJS",
-    "Redux",
-    "Sass",
-    "Less",
-    "Bootstrap",
-    "TailwindCSS",
-    "Nodejs",
-    "ExpressJS",
-    "JQuery",
-    "Git VCS",
-    "GitHub",
-    "Webpack",
-];
+import { useEffect, useState } from "react";
 
 const Skills = () => {
+    const [skills, setSkills] = useState([]);
+    useEffect(() => {
+        fetch(`/data/skillsData.json`)
+            .then((res) => res.json())
+            .then((data) => {
+                setSkills(data);
+            });
+    }, []);
+
     return (
         <div name="skills" className="py-12 bg-slate-900 text-gray-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
