@@ -71,7 +71,7 @@ export default function Experience() {
                                                     className="text-gray-200"
                                                 ></path>
                                             </svg>
-                                            December 2014 - January 2023
+                                            {experience.startDate} - {experience.endDate ? experience.endDate: "Current"}
                                         </time>
                                         <p className="md:col-start-3 md:col-span-6 xl:col-span-7 ml-9 md:ml-0 text-lg">
                                             {experience.description}
