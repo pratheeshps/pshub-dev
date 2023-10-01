@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "projectName": "Password generator",
+        "description": "Random password generator application",
+        "techStack": "HTML, CSS, Javascript, Reactjs",
+        "githubUrl": "https://",
+        "demoUrl": "https://"
+    },
+    {
+        "id": "2",
+        "projectName": "Theme switcher",
+        "description": "Basic theme switch application using Reactjs",
+        "techStack": "HTML, CSS, Javascript, Reactjs",
+        "githubUrl": "https://",
+        "demoUrl": "https://"
+    }
+]
