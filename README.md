@@ -1,4 +1,4 @@
-# Pratheesh PS Portfolio
+# Pratheesh P S Portfolio
 
 ## Stack
 ReactJS
